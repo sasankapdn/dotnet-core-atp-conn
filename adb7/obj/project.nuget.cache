@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "puzU4Cfq8K7O7nlTM8zstiMKXGzNjD8581jqXyKZknu+zIRWeh7eQiIHU7Z4UOtdbcVnkrmoxLojA/l9PibHAw==",
+  "success": true,
+  "projectFilePath": "/Users/sasanka/Projects/adb7/adb7/adb7.csproj",
+  "expectedPackageFiles": [
+    "/Users/sasanka/.nuget/packages/microsoft.extensions.configuration/3.1.8/microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "/Users/sasanka/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.8/microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "/Users/sasanka/.nuget/packages/microsoft.extensions.configuration.binder/3.1.8/microsoft.extensions.configuration.binder.3.1.8.nupkg.sha512",
+    "/Users/sasanka/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.8/microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "/Users/sasanka/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.8/microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "/Users/sasanka/.nuget/packages/microsoft.extensions.logging/3.1.8/microsoft.extensions.logging.3.1.8.nupkg.sha512",
+    "/Users/sasanka/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.8/microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "/Users/sasanka/.nuget/packages/microsoft.extensions.options/3.1.8/microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "/Users/sasanka/.nuget/packages/microsoft.extensions.primitives/3.1.8/microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "/Users/sasanka/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/sasanka/.nuget/packages/oracle.manageddataaccess.core/2.19.90/oracle.manageddataaccess.core.2.19.90.nupkg.sha512",
+    "/Users/sasanka/.nuget/packages/system.directoryservices.protocols/4.7.0/system.directoryservices.protocols.4.7.0.nupkg.sha512",
+    "/Users/sasanka/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
